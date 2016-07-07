@@ -1,0 +1,7 @@
+[package]
+name = "ffmpeg_mio"
+version = "0.1.0"
+authors = ["Shibby"]
+
+[dependencies]
+mio = "0.4.1"
